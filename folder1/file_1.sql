@@ -1,0 +1,1 @@
+SELECT id, user FROM tabel_1
